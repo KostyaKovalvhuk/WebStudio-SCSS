@@ -102,10 +102,10 @@ top: 45px;
 .studio-logo {
   color: #000; */
 
-
+/* 
 .studio-logo-f {
   color: #fff;
-}
+} */
 /* 
 .list-item + .list-item {
   margin-left: 50px;
@@ -147,7 +147,7 @@ top: 45px;
   text-transform: uppercase;
 }
 
-.button {
+/* .button {
   font-weight: 700;
   text-align: center;
   width: 200px;
@@ -160,7 +160,7 @@ top: 45px;
   margin-left: auto;
   margin-right: auto;
   border-radius: 4px;
-}
+} */
 
 .menu-title3 {
   font-weight: 700;
@@ -250,7 +250,7 @@ top: 45px;
   padding-bottom: 95px;
   padding-top: 95px;
 }
-
+/* 
 .footer {
   background-color: #2f303a;
   padding-top: 60px;
@@ -330,9 +330,9 @@ margin-bottom: 20px;
   padding-left: 16px;
   padding-top: 15px;
   padding-bottom: 15px;
-}
+} */
 
-.bth-footer {
+/* .bth-footer {
 margin-left: 12px;
     width: 200px;
     padding: 10px 32px;
@@ -346,8 +346,8 @@ margin-left: 12px;
     align-items: center ;
     justify-content: center;
     column-gap: 16px;
-}
-
+} */
+/* 
 .footer-form {
 display: flex;
 align-items: center;
@@ -362,7 +362,7 @@ justify-content: center;
   border: 1px solid rgba(255, 255, 255, 0.3);
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: rgba(33, 150, 243, 0);
-}
+} */
 
 .team-list {
   display: flex;
@@ -414,10 +414,10 @@ ul {
   margin-bottom: 50px;
   font-size: 36px;
 }
-
+/* 
 .footer-items {
   font-weight: 400;
-}
+} */
 
 /* .container {
   width: 1200px;
@@ -451,13 +451,13 @@ img {
   display: block;
   height: auto;
 }
-
+/* 
 .footer-adress {
   margin-top: 20px;
   color: #fff;
   font-weight: 400;
   font-size: 14px;
-}
+} */
 
 .card-img {
   width: 370px;
@@ -500,9 +500,9 @@ img {
   background: #2196f3;
 }
 
-button {
+/* button {
   border: 0;
-}
+} */
 
 .filters-btn {
   border-radius: 0%;
@@ -521,12 +521,12 @@ button {
   text-align: center;
   color: #212121;
 }
-
+/* 
 .footer-link {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 400;
   font-size: 14px;
-}
+} */
 
 .clients {
   display: flex;
